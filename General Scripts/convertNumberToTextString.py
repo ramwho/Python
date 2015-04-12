@@ -1,4 +1,4 @@
-__author__ = 'github.com/ramwho'
+__author__ = 'github.com/ramathorn'
 import os
 import sys
 
