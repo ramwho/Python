@@ -1,4 +1,4 @@
-__author__ = github.com/ramwho
+__author__ = 'github.com/ramwho'
 
 from datetime import datetime
 
